@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Name: Sahil Mirza
 Student number: A00076250
 Course code: TU756
+=======
+echo "Name: Sahil Mirza" > student.txt
+echo "Student number: A00076250" >> student.txt
+echo "Course code: TU756" >> student.txt
+git status
+>>>>>>> 59dad6748ea9ebd2081a474369796e72ead03c70
